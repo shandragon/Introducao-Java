@@ -9,6 +9,10 @@ public class Programa01 {
         double numeroDouble = 2.71828;
         String nome = "Issac Newton";
 
-        System.out.println("Exibir: " + idade);
+        System.out.println("int: " + idade);
+        System.out.println("char: " + letra);
+        System.out.println("float: " + numeroFloat);
+        System.out.println("double: " + numeroDouble);
+        System.out.println("String: " + nome);
     }
 }

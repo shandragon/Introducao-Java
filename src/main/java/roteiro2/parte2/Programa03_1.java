@@ -7,10 +7,10 @@ public class Programa03_1 {
         System.out.println("Informe o seu nome");
 
         String nome = JOptionPane.showInputDialog("Informe seu nome");
-        JOptionPane.showMessageDialog(null, "Nome informado: " + nome);
+        System.out.println("Nome informado: " + nome);
 
         String strIdade = JOptionPane.showInputDialog("Informe seu nome");
         int idade = Integer.parseInt(strIdade);
-        JOptionPane.showMessageDialog(null, "Idade informado: " + idade);
+        System.out.println("Idade informado: " + idade);
     }
 }
