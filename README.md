@@ -1,12 +1,13 @@
 # Introdução ao Java
 
-Repositório dos roteiros apresentados durante as aulas práticas de introdução a programação com Java.
+Repositório com material e exercícios apresentados durante as aulas práticas de introdução a programação com Java.
 
 ## Estrutura do Repositório
 
-Dentro do diretório **src** se encontra o código-fonte dos roteiros e na pasta **docs** se encontra os arquivos (pdf) com os roteiros.
+Dentro do diretório **src** se encontra o código-fonte dos roteiros e dos exercícios.
+Na pasta **docs** temos a pasta **roteiros** e a pasta **beecrowd**. Dentro da pasta **roteiros** temos os arquivos (pdf) dos roteiros apresentados durante as aulas práticas. Já na pasta chamada **beecrowd** temos os enunciados dos exercícios do beecrowd.
 
-## Os Roteiros
+### Os Roteiros
 
 - O [Roteiro 1](docs/Roteiro1.pdf) é um "hello world" em java. Além disso, é apresentada a configuração de projetos na IDE Netbeans e Visual Studio.
 
