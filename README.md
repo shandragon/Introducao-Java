@@ -15,10 +15,16 @@ Na pasta **docs** temos a pasta **roteiros** e a pasta **beecrowd**. Dentro da p
 
 - No [Roteiro 3](docs/Roteiro3.pdf) é apresentado o conceito de função estática do Java.
 
-- O [Roteiro 4](docs/Roteiro4.pdf) apresenta os conceitos iniciais do paradigma de programação orienta a objetos (POO).
+- O [Roteiro 4](docs/Roteiro4.pdf) apresenta os conceitos iniciais do paradigma de programação orientada a objetos (POO).
 
-- O [Roteiro 5](docs/Roteiro5.pdf) dá continuidade aos conceitos iniciais do paradigma de programação orienta a objetos.
+- O [Roteiro 5](docs/Roteiro5.pdf) dá continuidade aos conceitos iniciais do paradigma de programação orientada a objetos.
 
-- No [Roteiro 6](docs/Roteiro6.pdf) o conceito de composição dentro da programação orienta a objetos.
+- No [Roteiro 6](docs/Roteiro6.pdf) o conceito de composição dentro da programação orientada a objetos.
 
-- O [Roteiro 7](docs/Roteiro6.pdf) apresenta o array dinâmico em Java.
+- O [Roteiro 7](docs/Roteiro7.pdf) apresenta o array dinâmico em Java.
+
+- O [Roteiro 8](docs/Roteiro8.pdf) apresenta os conceitos de herança e polimorfismo do paradigma de programação orientada a objetos.
+
+- O [Roteiro 9](docs/Roteiro9.pdf) apresenta o conceito de Interface que é um recurso da linguagem Java.
+
+- No [Roteiro 10](docs/Roteiro10.pdf) é apresentado como funciona a interface gráfica do Java.
